@@ -51,3 +51,10 @@ Particular instruction to non-colab user:
 
     Ignore 'Run for colab'
     Change the paths in 'Set paths' section
+    
+Structure of files:
+
+    Three different types of experiments are divided in the three directories.
+    The experiments related to grid search are located in grid_search
+    The experiments related to random search are located in random_search
+    The experiments related to seed selection are located in seed_selection
